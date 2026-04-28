@@ -17,3 +17,4 @@ This project uses Machine Learning to predict the probability of archaeological 
 
 2. Run app:
    streamlit run app.py
+   or visit https://archaeological-site-predictor-2rkaczxxmgfpuqe67ksmqn.streamlit.app/
