@@ -1,2 +1,19 @@
-# archaeological-site-predictor
-Machine Learning project that predicts potential archaeological sites using geospatial features like distance from the Nile and elevation.
+# Archaeological Site Prediction System
+
+This project uses Machine Learning to predict the probability of archaeological sites based on geospatial features.
+
+## Features
+- Distance from Nile
+- Elevation
+
+## Tech Used
+- Python
+- Scikit-learn
+- Streamlit
+
+## How to Run
+1. Train model:
+   python model.py
+
+2. Run app:
+   streamlit run app.py
